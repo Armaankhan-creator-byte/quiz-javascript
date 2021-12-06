@@ -1,0 +1,46 @@
+body{
+    padding: 0;
+    margin:0;
+    background-color:#1d1d1f;
+    border-radius: 200px;
+    box-shadow: 1px 2px 30px salmon;
+
+    
+}
+.heading{
+text-align: center;
+font-size: 3rem;
+font-weight: 700;
+font-family: 'Balsamiq Sans', cursive;
+text-shadow: 1px 2px 3px orange;
+color:bisque;
+}
+.container{
+    width:60vw;
+    font-family: 'Varela Round', sans-serif;
+    background-color: rgb(194, 186, 177);
+    color: white;
+    border-radius: 10px;
+    
+
+}
+#btn,#btn1,#btn2,#btn3,#btn4{
+    text-shadow: 2px 1px 4px rosybrown;
+    background-color: darkgray;
+
+}
+#scoree,#scoree1,#scoree2,#scoree3,#scoree4{
+    color:sienna;
+}
+#finalbutton{
+    margin-top:30px;
+    background-color: black;
+    
+}
+
+
+#answer{
+    color: whitesmoke;
+    font-size: 2rem;
+    
+}
